@@ -5,7 +5,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 
 //Rinkelby deploy
 const provider = new HDWalletProvider(
-    'funny taste tiger tongue choice scrap recipe pear lemon private lounge frozen',
+    '12 Wörter',
     'https://rinkeby.infura.io/E2Vi7TW6F0SPsNfmylRJ'
 );
 
